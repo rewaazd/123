@@ -14,7 +14,7 @@ milk - #F4F2E6
 
 @font-face {
     font-family: 'a';
-    src: url('/es/AnonymousPro-Regular\ \(1\).ttf') format('truetype');
+    src: url('/123/es/AnonymousPro-Regular\ \(1\).ttf') format('truetype');
     font-weight: 400;
     font-display: swap;
 }
@@ -72,3 +72,4 @@ h6 {
     letter-spacing: -0.03em;
     text-transform: uppercase;
 }
+

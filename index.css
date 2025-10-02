@@ -14,7 +14,7 @@ li, a, button{
 
 body {
     max-height: 1080px;
-    background: url(/123/es/background.svg);
+    background: url(es/background.svg);
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
@@ -336,3 +336,4 @@ body {
     }
 
 }
+

@@ -1,0 +1,74 @@
+
+/* 
+
+white - #ffffff
+blue - #3F64FB
+black - #262A24
+milk - #F4F2E6
+
+*/
+
+
+
+
+
+@font-face {
+    font-family: 'a';
+    src: url('/es/AnonymousPro-Regular\ \(1\).ttf') format('truetype');
+    font-weight: 400;
+    font-display: swap;
+}
+
+h1 {
+    font-family: a;
+    font-weight: 400;
+    font-size: 135px;
+    letter-spacing: -0.03em;
+}
+h2 {
+    font-family: a;
+    line-height: 90%;
+    font-weight: 400;
+    font-size: 82px;
+    letter-spacing: -0.03em;
+}
+h3 {
+    font-family: a;
+    font-weight: 400;
+    font-size: 40px;
+    letter-spacing: -0.03em;
+}
+h4 {
+    font-family: a;
+    font-weight: 400;
+    font-size: 26px;
+    letter-spacing: -0.03em;
+}
+h5 {
+    font-family: a;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: -0.03em;
+}
+
+
+h6 {
+    font-family: a;
+    line-height: 90%;
+    font-weight: 400;
+    font-size: 60px;
+    letter-spacing: -0.03em;
+}
+
+.p1 {
+    font-family: a;
+    font-size: 20px;
+    letter-spacing: -0.03em;
+}
+
+.p1-caps {
+    font-family: a;
+    font-size: 20px;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+}
